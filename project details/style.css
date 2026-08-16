@@ -17,6 +17,7 @@
 .header{
     padding: 20px 10px;
     background-color: #020100;
+    box-shadow: 0 10px 20px -5px rgba(181, 179, 179, 0.3);
 }
 .btn{
     background-color: #2C2C2C;
@@ -142,4 +143,49 @@
     width: 1200px;
     margin-left: 40px;
     margin-top: 50px;
+}
+.en{
+    width: 300px;
+    display: block;
+    margin-top: 10px;
+}
+.footer{
+    padding-left: 20px;
+    margin-top: 20px;
+}
+.ulf1{
+    font-size: 20px;
+    font-weight: 500;
+    color: #8D8D8C;
+    display: flex;
+    gap: 100px;
+    list-style: none;
+}
+.dsd{
+    display: flex;
+    gap: 50px;
+}
+.ulf2{
+    list-style: none;
+    margin-top: 10px;
+}
+
+.ulf3{
+    list-style: none;
+    margin-top: 10px;
+}
+.ulf4{
+    list-style: none;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.ulf5{
+    list-style: none;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.dsdd{
+    display: flex;
+    gap: 20px;
+
 }
