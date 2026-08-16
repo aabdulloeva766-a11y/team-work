@@ -23,6 +23,15 @@
     color: white;
     padding: 7px 10px;
     border: none;
+    border-radius: 7px;
+}
+.btn1{
+    background-color: #2C2C2C;
+    color: white;
+    padding: 7px 10px;
+    border: none;
+    border-radius: 7px;
+    margin-top: 10px;
 }
 .can{
     background-color: #020100;
@@ -70,5 +79,67 @@
     gap: 50px;
 }
 .sec2{
+    margin-top: 50px;
+}
+.you{
+    font-size: 59px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+.ddff{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.ii{
+    width: 350px;
+}
+
+
+.box{
+    margin-left: 20px;
+    border: 1px solid #282726;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+.thee{
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.the22{
+    color: #C0C0BF;
+    font-size: 18px;
+    font-weight: 400;
+    width: 340px;
+    margin-bottom: 10px;
+
+}
+.up{
+    font-size: 14px;
+    font-weight: 400;
+    color: #8d8d8c;
+}
+.btn2{
+    background-color: #FF5200;
+    font-size: 16px; 
+    border-radius: 8px;
+    display: block;
+    color: white;
+    border: none;
+    padding: 10px 130px;
+    margin-top: 10px;
+    font-weight: 700;
+
+}
+.dffd{
+    display: flex;
+    
+}
+.ka{
+    width: 1200px;
+    margin-left: 40px;
     margin-top: 50px;
 }
