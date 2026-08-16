@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+}
+.df{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+.ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    color: white;
+    align-items: center;
+    margin-left: -50px;
+}
+.header{
+    padding: 20px 10px;
+    background-color: #020100;
+}
+.btn{
+    background-color: #2C2C2C;
+    color: white;
+    padding: 7px 10px;
+    border: none;
+}
+.can{
+    background-color: #020100;
+    color: white;
+    padding-bottom: 50px;
+}
+.the{
+    font-size: 73px;
+    font-weight: 700;
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.the2{
+    color: #C0C0BF;
+    font-size: 18px;
+    font-weight: 400;
+    width: 700px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+
+}
+.dff{
+    display: flex;
+    gap: 50px;
+}
+.i{
+    width: 95%;
+    margin-left: 30px;
+}
+.iim{
+    width: 700px;
+    margin-left: 20px;
+}
+.pl{
+    font-size: 47px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+.ik{
+    width: 400px;
+}
+.ds{
+    display: flex;
+    gap: 50px;
+}
+.sec2{
+    margin-top: 50px;
+}
