@@ -1,4 +1,6 @@
-*{
+
+.s1,
+.s2{
     background-color: black;
     color: white;
 }
@@ -35,4 +37,21 @@
 }
 .s2 img{
     width: 300px;
+}
+.s3{
+    background-color: rgb(255, 111, 0);
+    color: white;
+}
+.s3 div{
+    display: flex;
+    padding-top: 150px;
+    padding-left: 280px;
+}
+.s3 div img{
+    width: 300px;
+}
+.s3 h1{
+    font-size: 92px;
+    text-align: center;
+    padding: 10px;
 }
