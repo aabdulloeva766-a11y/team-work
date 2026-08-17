@@ -23,3 +23,15 @@
     width: 10%;
     margin: 40px;
 }
+.s2 p, h1, h2,h3{
+    padding: 60px;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
