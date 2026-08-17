@@ -50,11 +50,14 @@ input{
 .d2{
     padding: 40px;
 }
-@media{
+@media (max-width:768px){
+
+
     .Home{
-        display: flex;
+        display: none;
     }
     .s1{
         display: flex;
     }
+
 }
