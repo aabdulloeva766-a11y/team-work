@@ -1,5 +1,4 @@
-.s1,
-.s2{
+*{
     background-color: black;
     color: white;
 }
@@ -37,4 +36,25 @@ button{
     color: #fff;
     border-radius: 7px;
     margin: 20px;
+}
+input{
+    background-color: #fff;
+    margin: 30px;
+}
+.d1{
+    padding: 40px;
+}
+.Home{
+    display: flex;
+}
+.d2{
+    padding: 40px;
+}
+@media{
+    .Home{
+        display: flex;
+    }
+    .s1{
+        display: flex;
+    }
 }
